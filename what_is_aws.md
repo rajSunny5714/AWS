@@ -10,30 +10,17 @@
 
 It provides on-demand cloud services for:
 
-- 🖥️ Computing
-- 🪣 Storage
-- 🗄️ Databases
-- 🌐 Networking
-- 🔐 Security
-- 📊 Monitoring
-- 🤖 AI & Machine Learning
-- 🔄 DevOps
+- 🖥️ Computing - 🪣 Storage - 🗄️ Databases - 🌐 Networking
+- 🔐 Security - 📊 Monitoring - 🤖 AI & Machine Learning - 🔄 DevOps
 
 AWS allows organizations to build, deploy, and scale applications without maintaining physical infrastructure.
 
----
 
 ## 🚀 Why AWS?
 
-- ☁️ Cloud Infrastructure
-- 📈 Scalability
-- 🔐 Security
-- 💰 Pay-as-you-go pricing
-- 🌍 Global Infrastructure
-- ⚡ High Availability
-- 🛠️ Managed Services
+- ☁️ Cloud Infrastructure - 📈 Scalability - 🔐 Security - 💰 Pay-as-you-go pricing
+- 🌍 Global Infrastructure - ⚡ High Availability - 🛠️ Managed Services
 
----
 
 ## 🧩 Major AWS Services
 
@@ -44,10 +31,7 @@ AWS allows organizations to build, deploy, and scale applications without mainta
 **Elastic Compute Cloud (EC2)** provides virtual servers in the cloud.
 
 **Used for:**
-- 🌐 Web applications
-- 🔌 Backend APIs
-- 🖥️ Application servers
-- ⚙️ Custom workloads
+- 🌐 Web applications - 🔌 Backend APIs - 🖥️ Application servers - ⚙️ Custom workloads
 
 #### 🚀 AWS Lambda
 
