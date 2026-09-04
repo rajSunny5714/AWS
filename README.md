@@ -12,7 +12,7 @@ This repository contains my **AWS learning notes, hands-on practice, configurati
 | ----------------- | ------------------------------------------- |
 | 🖥️ **EC2**       | Virtual Servers, Security Groups, Key Pairs |
 | 🪣 **S3**         | Buckets, Objects, Storage Classes           |
-| 🗄️ **RDS**       | Managed Relational Databases                |
+| 🗄️ **RDS**       | Managed Relational Databases                 |
 | 🔐 **IAM**        | Users, Roles, Policies & Permissions        |
 | 🌐 **VPC**        | Subnets, Route Tables, Internet Gateway     |
 | ⚖️ **ELB**        | Load Balancing                              |
