@@ -202,3 +202,4 @@ Spring Boot Application
 - Secure access using Security Groups and Key Pairs.
 - Store data using EBS.
 - Use Elastic IP for a static public address.
+---
