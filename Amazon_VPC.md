@@ -74,7 +74,6 @@ A typical VPC can contain public and private subnets across multiple Availabilit
 ### 1. VPC
 
 A VPC is an isolated virtual network in an AWS Region.
-
 When creating a VPC, you specify an IPv4 CIDR block.
 
 Example:
@@ -86,7 +85,6 @@ Example:
 This defines the private IPv4 address range available to the VPC.
 
 ### 2. CIDR Block
-
 **CIDR (Classless Inter-Domain Routing)** represents an IP address range.
 
 Example:
@@ -111,7 +109,6 @@ Other examples:
 ### 3. Subnet
 
 A **subnet** is a smaller IP address range inside a VPC.
-
 Subnets help organize resources and control network routing.
 
 There are two common subnet designs:
